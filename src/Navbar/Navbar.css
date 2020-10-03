@@ -1,0 +1,18 @@
+.navbar {
+	position: fixed !important ;
+	background-color: rgb(177, 94, 201);
+	color: #fff;
+	top: 0px;
+	width: 100%;
+	z-index: 10;
+}
+
+.navbar.active {
+	background-color: rgb(119, 71, 160);
+}
+
+.logo {
+	width: 40%;
+	height: 3%;
+	padding-left: 2rem;
+}

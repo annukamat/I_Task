@@ -1,0 +1,9 @@
+.footer-bottom {
+	background: #f4f7fa;
+	color: #707070;
+}
+.footer-bottom p {
+	font-size: 1rem;
+	font-weight: 200;
+	margin-bottom: 1.25em;
+}
